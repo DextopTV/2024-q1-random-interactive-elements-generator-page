@@ -1,6 +1,6 @@
-# Random Interactive Elements Generator Page
-## Random Interactive Elements Generator Page is a dynamic web application that generates and allows users to interact with randomly positioned elements on the screen.
-### This application was built using [GitHub Pages](https://dextoptv.github.io/2024-q1-random-interactive-elements-generator-page/).
+# Random Interactive Generator Page
+## Random Interactive Generator Page is a dynamic web application that generates and allows users to interact with randomly positioned elements on the screen.
+### This application was built using [GitHub Pages](https://dextoptv.github.io/2024-q1-random-interactive-generator/).
 
 **Technologies Used:**
 - HTML
@@ -9,6 +9,14 @@
 
 **Methodologies Used:**
 - Responsive Design
+
+**Techniques & Approaches Used:**
+- DOM Manipulation
+- Event Handling
+- CSS Flexbox
+- CSS Positioning
+- Random Number Generation
+- Color Manipulation
 
 **Features:**
 - Generates 100 interactive elements with random positions and colors
